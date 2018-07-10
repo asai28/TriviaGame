@@ -49,7 +49,7 @@ var game = {
             question: "What's the name of Bellatrix' husband?",
             answer: "Rodolphus Lestrange",
             options: ["Albert Lestrange", "Rolphius Lestrange", "Adolph Lestrange", "Rodolphus Lestrange"],
-            image: "<img src=\"assets/images/q1.png\">",
+            image: "<img src=\"assets/images/q1.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage1.png" + "\"" + ">",
             fact: "Bellatrix was married to Rodolphus Lestrange, but the marriage was loveless on her part. The two met at Hogwarts, and her parents arranged a marriage of convenience. Rodolphus was a pure-blood, like their family, and it was very important to the Blacks to preserve their pure-blood heritage. Rodolphus became a Death Eater like his wife and they at least worked together in service of Lord Voldemort, but she never expresses any affection for him and barely mentions him."
         },
@@ -57,7 +57,7 @@ var game = {
             question: "What's the name of Percy's wife?",
             answer: "Audrey",
             options: ["Audrey", "Lucy", "Rosie", "Marjorie"],
-            image: "<img src=\"assets/images/q2.png\">",
+            image: "<img src=\"assets/images/q2.PNG\">",
 
             answerImage: "<img src=" + "\"" + "assets/images/answerImage2.jpg" + "\"" + ">",
             fact: "It took Percy six months to admit to Audrey that he was a wizard. He would have preferred at least a year, but Mum insisted on meeting the young lady who was taking up so much of his time. Fortunately, Audrey felt this made up for the disappointment that he wasn't part of the Mafia, and charmed Dad just by being herself. Audrey, on the other hand, wouldn't allow Percy to meet her family until he offered to swear an Unbreakable Vow that he wouldn't let her mother run him off like her last three boyfriends."
