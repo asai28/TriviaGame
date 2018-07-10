@@ -49,7 +49,7 @@ var game = {
             question: "What's the name of Bellatrix' husband?",
             answer: "Rodolphus Lestrange",
             options: ["Albert Lestrange", "Rolphius Lestrange", "Adolph Lestrange", "Rodolphus Lestrange"],
-            image: "<img src=\"assets/images/q1.png\">",
+            image: "<img src=\"assets/images/q1.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage1.png" + "\"" + ">",
             fact: "Bellatrix was married to Rodolphus Lestrange, but the marriage was loveless on her part. The two met at Hogwarts, and her parents arranged a marriage of convenience. Rodolphus was a pure-blood, like their family, and it was very important to the Blacks to preserve their pure-blood heritage. Rodolphus became a Death Eater like his wife and they at least worked together in service of Lord Voldemort, but she never expresses any affection for him and barely mentions him."
         },
@@ -57,8 +57,7 @@ var game = {
             question: "What's the name of Percy's wife?",
             answer: "Audrey",
             options: ["Audrey", "Lucy", "Rosie", "Marjorie"],
-            image: "<img src=\"assets/images/q2.png\">",
-
+            image: "<img src=\"assets/images/q2.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage2.jpg" + "\"" + ">",
             fact: "It took Percy six months to admit to Audrey that he was a wizard. He would have preferred at least a year, but Mum insisted on meeting the young lady who was taking up so much of his time. Fortunately, Audrey felt this made up for the disappointment that he wasn't part of the Mafia, and charmed Dad just by being herself. Audrey, on the other hand, wouldn't allow Percy to meet her family until he offered to swear an Unbreakable Vow that he wouldn't let her mother run him off like her last three boyfriends."
         },
@@ -66,7 +65,7 @@ var game = {
             question: "Which of these is a type of Love Potion?",
             answer: "Amortentia",
             options: ["Felix Felicis", "Amortentia", "Polyjuice Potion", "Veritaserum"],
-            image: "<img src=\"assets/images/q3.png\">",
+            image: "<img src=\"assets/images/q3.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage3.jpg" + "\"" + ">",
             fact: "Amortentia. Amortentia is a love potion that does not create actual love, but gives the drinker a powerful obsession and infatuation with the giver of the potion. It is usually either forced upon someone or covertly given."
         },
@@ -74,7 +73,7 @@ var game = {
             question: "What class did Neville end up teaching at Hogwarts?",
             answer: "Herbology",
             options: ["Astronomy", "Muggle Studies", "Herbology", "Charms"],
-            image: "<img src=\"assets/images/q4.png\">",
+            image: "<img src=\"assets/images/q4.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage4.gif" + "\"" + ">",
             fact: "Neville Longbottom, as the herbology professor, kept a potrait of Luna Lovegood in his office to remind him as of the first people who believed that he could be something great."
 
@@ -83,7 +82,7 @@ var game = {
             question: "Which newspaper does Rita Skeeter work for?",
             answer: "Daily Prophet",
             options: ["The Quibbler", "Daily Prophet"],
-            image: "<img src=\"assets/images/q5.png\">",
+            image: "<img src=\"assets/images/q5.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage5.gif" + "\"" + ">",
             fact: "Rita Skeeter is a reporter for the Daily Prophet who is known for her rubbishy exposés of well-known wizards. She uses a Quick-Quotes Quill to write in flowery prose filled with innuendoes and veiled accusations."
         },
@@ -91,7 +90,7 @@ var game = {
             question: "What's the name of Tonks and Lupin's son?",
             answer: "Edward",
             options: ["Theodore", "Lyall", "James", "Edward"],
-            image: "<img src=\"assets/images/q6.png\">",
+            image: "<img src=\"assets/images/q6.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage6.jpg" + "\"" + ">",
             fact: "Tonks didn’t care about Lupin’s condition. Inspired by Fleur Delacour’s love for Bill Weasley – who had been bitten by the same werewolf who attacked Remus as a child, Fenrir Greyback. Lupin never felt at ease about his love for Tonks, continuing to think that he was being cruel and selfish. Nonetheless, they married quietly in the north of Scotland, with witnesses taken from the local wizarding tavern."
         },
@@ -99,7 +98,7 @@ var game = {
             question: "Which of these are not one of Hagrid's many pets?",
             answer: "Grawp",
             options: ["Grawp", "Fluffy", "Aragog", "Norberta"],
-            image: "<img src=\"assets/images/q7.png\">",
+            image: "<img src=\"assets/images/q7.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage7.gif" + "\"" + ">",
             fact: "Hagrid managed to gain possession of numerous magical creatures, many of them dangerous, including Aragog, Fang, Fluffy, Buckbeak, and Norbert (later Norberta). Hagrid's love for animals and his talent for taming and training them won him the post of Care of Magical Creatures Professor at Hogwarts."
         },
@@ -107,7 +106,7 @@ var game = {
             question: "What is the name of Fleur Delacour's sister?",
             answer: "Gabrielle",
             options: ["Victoire", "Apolline", "Dominique", "Gabrielle"],
-            image: "<img src=\"assets/images/q8.png\">",
+            image: "<img src=\"assets/images/q8.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage8.jpg" + "\"" + ">",
             fact: "Fleur was chosen as Beauxbatons Academy of Magic's champion in the Triwizard Tournament. This was considered to be a great honour. Because she treasured her younger eight-year-old sister Gabrielle above all else she was taken into the Black Lake, under the influence of a magical spell during the Second Task."
         },
@@ -115,7 +114,7 @@ var game = {
             question: "Which class did Severus Snape always want to teach?",
             answer: "Defense against the dark arts",
             options: ["Defense against the dark arts", "Potions", "Charms", "Transfiguration"],
-            image: "<img src=\"assets/images/q10.png\">",
+            image: "<img src=\"assets/images/q10.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage9.gif" + "\"" + ">",
             fact: "The position of Defence Against the Dark Arts professor here was once rumoured to be jinxed, as no teacher could hold the post for more than a year. Tom Marvolo Riddle jinxed the position because Dumbledore did not give him the job when he applied for it. The fact that no teacher has lasted longer then year meant that the subject has had numerous Professors."
         },
@@ -123,7 +122,7 @@ var game = {
             question: "Which Hogwarts house did Moaning Myrtle belong in?",
             answer: "Ravenclaw",
             options: ["Gryffindor", "Slytherin", "Ravenclaw", "HufflePuff"],
-            image: "<img src=\"assets/images/q12.png\">",
+            image: "<img src=\"assets/images/q12.PNG\">",
             answerImage: "<img src=" + "\"" + "assets/images/answerImage10.gif" + "\"" + ">",
             fact: "Myrtle Elizabeth Warren arrived at Hogwarts and was sorted into the house of Ravenclaw. Following her death, Myrtle returned as a ghost so she could haunt student Olive Hornby in revenge for her bullying."
         },
@@ -143,6 +142,7 @@ var game = {
         $("#display").append("<h3>Want to prove that you are a die hard fan of Harry Potter? Answer these 10 questions, each within 30 seconds. Whatever option you click on will be final. Click on any key to begin the game. Good Luck!</h3>");
         $("#display").append("<img id=\"firstPage\" src=\"assets/images/openingPage.gif\">");
         $(document).on("keyup", function (e) {
+            console.log("refresh game key up triggered.");
             game.loadQuestion();
             e.stopPropogation;
         });
@@ -171,6 +171,7 @@ var game = {
                     game.gameOver();
                 } else {
                     $(document).on("keyup", function (e) {
+                        console.log("load question true key up triggered.");
                         clearInterval(intervalId);
                         game.loadQuestion();
                         e.stopPropogation;
@@ -186,6 +187,7 @@ var game = {
                     game.gameOver();
                 } else {
                     $(document).on("keyup", function (e) {
+                        console.log("load question false key up triggered.");
                         game.loadQuestion();
                         e.stopPropogation;
                     });
@@ -232,6 +234,9 @@ var game = {
         $(".replay").on("click", function () {
             game.refreshGame();
         });
+        $(document).on("keyup", function (e) {
+            e.stopPropogation;
+        });
     },
     timesUp: function () {
         countdownTimer.stop();
@@ -246,6 +251,7 @@ var game = {
             game.gameOver();
         } else {
             $(document).on("keyup", function (e) {
+                console.log("time's up key up triggered.");
                 clearInterval(intervalId);
                 countdownTimer.reset();
                 game.loadQuestion();
