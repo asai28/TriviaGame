@@ -1,3 +1,12 @@
+//Styling code
+$(document).ready(function () {
+    var screenWidth = window.innerWidth;
+    var screenHeight = window.innerHeight;
+    $("body").css("background-image", "url(\"assets/images/The_Leaving_Feast_-_B4C37M1.png\")")
+    $("body").css("width", screenWidth);
+    $("body").css("height", screenHeight);
+});
+//Game code
 var time = 30;
 var intervalId;
 var countdownTimer = {
